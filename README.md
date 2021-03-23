@@ -1,3 +1,2 @@
 # formrick42.github.io
-Ejemplo De Un Sitio
-https://formrick42.github.io/
+Ejemplo de autenticación con Firebase y Google.
