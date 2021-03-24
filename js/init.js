@@ -1,12 +1,7 @@
-/*  Initializa Firebase con la configuración del proyecto. Revisa la
- * configuración en tu servidor de Firebase.  */
-// @ts-ignore
-firebase.initializeApp({
-    apiKey: "AIzaSyAuO0ft5iseHBAZRDr9sDgXZYR9o6de48M",
-    authDomain: "autentica42.firebaseapp.com",
-    projectId: "autentica42",
-    storageBucket: "autentica42.appspot.com",
-    messagingSenderId: "183357676186",
-    appId: "1:183357676186:web:5ef255c8320c284c009d23",
-    measurementId: "G-S7ZSKZKK9Q"
-    });
+apiKey: "AIzaSyDUX8q52b_wn-l1J5Qk4eOpJjrWku1JyEs",
+    authDomain: "chat41re.firebaseapp.com",
+    projectId: "chat41re",
+    storageBucket: "chat41re.appspot.com",
+    messagingSenderId: "897176894279",
+    appId: "1:897176894279:web:58afb6d71785e192252a62",
+    measurementId: "G-YFD6H0LE2S"
