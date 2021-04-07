@@ -1,2 +1,2 @@
 # formrick42.github.io
-Ejemplo de autenticación con Firebase y Google.
+Ejemplo de Conexión de B.D. con Firebase y Google.
